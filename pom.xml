@@ -8,6 +8,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+
     <properties>
         <dbeaver-version>23.3.0</dbeaver-version>
         <dbeaver-product>DBeaver</dbeaver-product>
